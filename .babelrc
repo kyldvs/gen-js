@@ -1,0 +1,10 @@
+{
+  "presets": ["es2015"],
+  "plugins": [
+    "syntax-async-functions",
+    "syntax-flow",
+    "transform-flow-strip-types",
+    "transform-regenerator",
+    "transform-runtime"
+  ]
+}
